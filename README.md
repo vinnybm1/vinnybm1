@@ -1,9 +1,22 @@
-## 🇴​​​​​🇱​​​​​🇦​​​​​́, 🇦​​​​​🇲​​​​​🇮​​​​​🇬​​​​​🇴​​​​​🇸​​​​​! 🇪​​​​​🇺​​​​​ 🇸​​​​​🇴​​​​​🇺​​​​​ 🇨​​​​​🇦​​​​​🇷​​​​​🇱​​​​​🇴​​​​​🇸​​​​​ 🇻​​​​​🇮​​​​​🇳​​​​​🇮​​​​​🇨​​​​​🇮​​​​​🇺​​​​​🇸​​​​​ 
+<div>
+  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="200">
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🐍 Estudando Python
-- 💻 Desenvolvendo meus primeiros projetos
--  Buscando evoluir na área de tecnologia
+  <h2>OLÁ, AMIGOS! EU SOU CARLOS VINICIUS 👋</h2>
+
+  <p>
+
+- Estudante de **Análise e Desenvolvimento de Sistemas** - UniFECAF
+- Atualmente focado em **Python** e desenvolvimento de aplicações
+- Desenvolvendo meus primeiros projetos e buscando transformar ideias em soluções através da tecnologia
+- Sempre em busca de aprender, evoluir e ampliar meus conhecimentos na área de desenvolvimento de software
+
+Estou construindo minha trajetória na tecnologia 
+através de estudos, projetos práticos e novos desafios. 
+Aqui no meu GitHub compartilho um pouco do que venho aprendendo e desenvolvendo durante essa jornada.
+
+> **"All we have to decide is what to do with the time that is given us."** — Gandalf 🧙‍♂️
+</p>
+</div>
 
 ##
 
