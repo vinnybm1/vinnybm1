@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+Eu+sou+Carlos+Vinicius+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00C853&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Carlos+Vinicius+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Python+%7C+Desenvolvimento+Front-End+%7C+Git" alt="Typing SVG" />
 
 <div>
   <img align="right" src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="200">
